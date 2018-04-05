@@ -1,4 +1,4 @@
-// Made By Stephen Kaplan
+// Made By Stephen Kaplan using an example by Daniel Shiffman
 
 Task[] tasks;
 // A JSON object
