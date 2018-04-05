@@ -1,36 +1,5 @@
-/**
- * Loading JSON Data
- * by Daniel Shiffman.  
- * 
- * This example demonstrates how to use loadJSON()
- * to retrieve data from a JSON file and make objects 
- * from that data.
- *
- * Here is what the JSON looks like (partial):
- *
- {
- "bubbles": [
- {
- "position": {
- "x": 160,
- "y": 103
- },
- "diameter": 43.19838,
- "label": "Happy"
- },
- {
- "position": {
- "x": 372,
- "y": 137
- },
- "diameter": 52.42526,
- "label": "Sad"
- }
- ]
- }
- */
+// Made By Stephen Kaplan
 
-// An Array of Bubble objects
 Task[] tasks;
 // A JSON object
 JSONObject json;
