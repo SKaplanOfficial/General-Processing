@@ -1,5 +1,3 @@
-// A Bubble class
-
 class Task {
   float y;
   int taskHeight;
